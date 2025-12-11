@@ -1,0 +1,5 @@
+{
+  "name": "Copy of CodeCraft AI",
+  "description": "An intelligent code refactoring assistant that improves readability, performance, and security of your code snippets using Google Gemini.",
+  "requestFramePermissions": []
+}
